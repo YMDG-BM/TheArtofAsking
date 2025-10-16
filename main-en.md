@@ -1,8 +1,11 @@
 # The Art of Asking : A Structured Framework
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
 [Full License Text](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+
 Simple Explanation: When reprinting or adapting this article, you must retain the original author's attribution and the link to the source, and any derivative works must be released under the same CC BY-SA license.
+
 
 # Main Text:
 We have observed that even after posting the article "How To Ask Questions The Smart Way" in the group announcement, few people truly grasp the essence of asking a question worth answering. Here, we provide a formula. We hope you can first try to solve the problem yourself following this method. If you still cannot resolve it, then come and ask according to the requirements.
@@ -65,4 +68,5 @@ However, if you have completed all the steps above and prepared your question ac
 
 **Appended**: Other related articles:
 [How To Ask Questions The Smart Way - Original Chinese Version](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
+
 "Oppose Book Worship" (《反对本本主义》)
