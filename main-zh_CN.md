@@ -1,6 +1,8 @@
 # 提问的智慧—公式版
 本文采用《知识共享 署名-相同方式共享 4.0 国际》许可协议。
+
 [协议全文链接](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
+
 简单理解：转载或改编本文时，必须保留原作者署名和原文链接，并且新作品必须采用同样的 CC BY-SA 协议发布。
 
 [本文](https://github.com/YMDG-BM/TheArtofAsking)已在GitHub开源，欢迎各位师傅提交issues和Pull Request，帮助我们完善这篇文章！
@@ -70,4 +72,5 @@ bash: docker: command not found
 **附**：其他相关的文章：
 [提问的智慧 原文 中文版](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 《反对本本主义》
+
 
