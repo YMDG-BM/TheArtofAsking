@@ -3,6 +3,8 @@
 [协议全文链接](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
 简单理解：转载或改编本文时，必须保留原作者署名和原文链接，并且新作品必须采用同样的 CC BY-SA 协议发布。
 
+[本文](https://github.com/YMDG-BM/TheArtofAsking)已在GitHub开源，欢迎各位师傅提交issues和Pull Request，帮助我们完善这篇文章！
+
 # 正文：
 我们注意到即使是在群公告里发布了《提问的智慧》这篇文章，依然有很少人能够深刻领悟到问出一个值得回答的问题的精髓。这里我们给出一个公式，希望你可以先按照这个套路自行解决问题，如果解决不能，再按照要求前来提问。
 事先声明：本指南不提供此项目的实际支持服务！
@@ -68,3 +70,4 @@ bash: docker: command not found
 **附**：其他相关的文章：
 [提问的智慧 原文 中文版](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 《反对本本主义》
+
