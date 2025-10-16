@@ -1,5 +1,7 @@
 # The Art of Asking : A Structured Framework
 
+[Main Text](main-en.md) | [正文](main-zh_CN.md)
+
 ## Abstract
 This article, "The Art of Asking : A Structured Framework", offers a systematic formula for problem-solving and asking questions, designed to help readers first attempt to resolve technical issues independently and reduce ineffective queries. The formula consists of six steps: from observing error messages, consulting AI, searching online, checking documentation, seeking solutions in forums and blogs, to finally preparing a detailed question following a specific format. It emphasizes politeness and self-reliance, encouraging efficient help-seeking in the community to foster knowledge sharing. This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
 
